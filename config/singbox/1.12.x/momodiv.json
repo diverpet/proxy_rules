@@ -8,7 +8,6 @@
         "type": "https",
         "server": "https://dns.google/dns-query",
         "domain_resolver": "default-dns",
-        "strategy": "ipv4_only",
         "client_subnet": "1.0.1.0"
       }
     ],
