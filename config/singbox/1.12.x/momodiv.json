@@ -3,7 +3,6 @@
     "servers": [
       {"tag": "default-dns", "type": "udp", "server": "223.5.5.5", "detour": "direct-out"},
       {"tag": "public", "type": "https", "server": "dns.alidns.com", "domain_resolver": "local"},
-      {"tag": "block-dns", "type": "rcode", "server": "rcode://name_error"},
       {
         "tag": "google",
         "type": "https",
